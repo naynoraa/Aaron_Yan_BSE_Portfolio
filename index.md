@@ -4,8 +4,7 @@ I am working on an arduino Infinity Mirror Clock that uses LED's and mirrors in 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Aaron Yan | Lynbrook High School | Engineering | Incoming Junior
-
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Infinity Mirror LED Clock](IMG_2988.HEIC)
   
 # Final Milestone
 My final milestone is the construction of the frame of my clock and making sure that all the components fit properly and work together. In order to do this I constructed a cradboard box tto store the components and used two mirrors, a normal one at the back and two-way one at the front, in order to create the infinity effect. This stage has actually ended up being one of the most challenging. The first ring I ordered ended up being too small, so I had to order another one that came at the last day. The construction of the container also caused many problems. Also, in order for all my wiring to fit, I had to move all my wiring onto a smaller breadboard, which led to many issues of wires going in the wrong place.
